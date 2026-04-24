@@ -37,4 +37,3 @@ A scalable backend system that allows multiple organizations to manage tasks ind
 
 ---
 
-## 📂 Project Structure
